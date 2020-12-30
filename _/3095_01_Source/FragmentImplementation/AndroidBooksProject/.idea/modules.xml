@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidBooks/AndroidBooks.iml" filepath="$PROJECT_DIR$/AndroidBooks/AndroidBooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidBooksProject.iml" filepath="$PROJECT_DIR$/AndroidBooksProject.iml" />
+    </modules>
+  </component>
+</project>
+

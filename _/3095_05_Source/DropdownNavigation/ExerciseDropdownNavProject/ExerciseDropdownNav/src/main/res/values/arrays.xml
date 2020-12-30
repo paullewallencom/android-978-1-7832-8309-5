@@ -1,0 +1,7 @@
+<resources>
+  <string-array name="screen_names">
+    <item>First View</item>
+    <item>Second View</item>
+    <item>Third View</item>
+  </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExerciseDialogFragments/ExerciseDialogFragments.iml" filepath="$PROJECT_DIR$/ExerciseDialogFragments/ExerciseDialogFragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseDialogFragmentsProject.iml" filepath="$PROJECT_DIR$/ExerciseDialogFragmentsProject.iml" />
+    </modules>
+  </component>
+</project>
+
